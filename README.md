@@ -21,12 +21,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ![alt text](image.png)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:[Solution] (https://github.com/vidyaa01/recipe-page-main)
+- Live Site URL:[Live site](https://recipe-page-main-mbcx3o4xs-vidyaa01s-projects.vercel.app/)
 
 ## My process
 
@@ -38,8 +38,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Mobile-first workflow
 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 -using media queries
@@ -50,6 +48,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Linkedin - [Vidya Jaggi](www.linkedin.com/in/vidya-jaggi)
 - Frontend Mentor - [@vidyaa01](https://www.frontendmentor.io/profile/@vidyaa01)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
