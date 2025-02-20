@@ -40,8 +40,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
--using media queries
--how to  the code structure in a better way
+- using media queries
+- how to  the code structure in a better way
 
 ## Author
 
